@@ -10,6 +10,8 @@
 
 <p align="left">Passionate cloud architect ☁💻</p>
 
+<p align="left"> <a href="https://twitter.com/jyothimani97" target="blank"><img src="https://img.shields.io/twitter/follow/jyothimani97?logo=twitter&style=for-the-badge" alt="jyothimani97" /></a> </p>
+
 ###
 
 <div align="left">
@@ -30,6 +32,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
+- 🔭 I’m currently working on **AWS Architecture**
+
+- 🌱 I’m currently focusing on learning **AWS Developer Associate and AZURE Solutions Architect Expert**
+
+- 📫 How to reach me **jyothimani1197@gmail.com**
+
+- 📄 Know about my experiences [will be updated soon](will be updated soon)
+
+- Language enthusiastic **"I've decided to expand my language skills. Not the kind that makes computers do magic tricks, but the kind that makes humans nod and smile in confusion. Babble on, not binary!"**
+- 
 ###
 
 <div align="left">
@@ -60,22 +72,10 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jyothimaniR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothimaniR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jyothimaniR&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jyothimaniR/jyothimaniR/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jyothimaniR/count.svg?"  />
 </div>
 
 ###
