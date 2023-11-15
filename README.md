@@ -68,6 +68,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/jyothimaniR/jyothimaniR/output/snake.svg" alt="Snake animation" />
 
 ###
