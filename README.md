@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67"  />
+  <img height="400" src=""  />
 </div>
 
 ###
@@ -55,5 +55,21 @@
 <br clear="both">
 
 <img align="right" height="200" src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif?cid=ecf05e473x11zdz0fbur8igipgjchoz6kxqqju985e0kdvnr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyothimaniR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothimaniR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jyothimaniR&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jyothimaniR/jyothimaniR/output/snake.svg" alt="Snake animation" />
 
 ###
