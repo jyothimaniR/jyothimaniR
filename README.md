@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src=""  />
+  <img height="300" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966"  />
 </div>
 
 ###
@@ -33,13 +33,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/jyothimani" target="_blank">
+  <a href="https://www.linkedin.com/in/jyothimani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="jyothimani1197@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="@jyothimani97" target="_blank">
+  <a href="https://twitter.com/jyothimani97" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="jyothimani_13374" target="_blank">
@@ -68,8 +68,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/jyothimaniR/jyothimaniR/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jyothimaniR/count.svg?"  />
+</div>
 
 ###
