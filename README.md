@@ -57,9 +57,3 @@
 <img align="right" height="200" src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif?cid=ecf05e473x11zdz0fbur8igipgjchoz6kxqqju985e0kdvnr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
