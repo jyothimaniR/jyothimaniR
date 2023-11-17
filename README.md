@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Hello World !!! I'm Jyothi Mani 👋🏻 <a href="https://emoji.gg/emoji/4708_Pikachu_Hello">
+<h3 align="left">Hello World !!! I'm Jyothi Mani <a href="https://emoji.gg/emoji/4708_Pikachu_Hello">
   <img src="https://cdn3.emoji.gg/emojis/4708_Pikachu_Hello.gif" width="64px" height="64px" alt="Pikachu_Hello">
 </a>
  </h3>
