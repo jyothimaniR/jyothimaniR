@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Hello World !!! I'm Jyothi Mani 👋🏻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
+<h3 align="left">Hello World !!! I'm Jyothi Mani 👋🏻 <div class="tenor-gif-embed" data-postid="15583157" data-share-method="host" data-aspect-ratio="1.12676" data-width="100%"><a href="https://tenor.com/view/waving-pikachu-gif-cute-hi-gif-15583157">Waving Pikachu Sticker</a>from <a href="https://tenor.com/search/waving-stickers">Waving Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></h3>
 
 ###
 
