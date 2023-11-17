@@ -42,6 +42,10 @@
 
 <p align="left">☁️ Cloud Architect - Navigating the Cloudscape with AWS, Certified Solutions Architect - SAA-C03. Expanding expertise across diverse cloud technologies.<br><br>🌱 I’m currently focusing on learning AWS Developer Associate and AZURE Solutions Architect Expert<br><br>Language enthusiastic - 🇩🇪🌐- "I've decided to expand my language skills. Not the kind that makes computers do magic tricks, but the kind that makes humans nod and smile in confusion. Babble on, not binary!" 😹</p>
 
+<div align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</div>
+
 ###
 
 <div align="left">
@@ -62,7 +66,6 @@
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 ###
 
