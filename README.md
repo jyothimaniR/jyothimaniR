@@ -18,7 +18,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws-logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws-logo](https://www.google.com/search?q=aws+logo+png&sca_esv=c1daa74f5b79c9cd&udm=2&biw=1440&bih=765&sxsrf=AHTn8zpGAhiSrV759sziNfX1nd8EF672Dg%3A1743083787337&ei=C1nlZ5GYFNWmhbIP5OTL8QQ&oq=aws+logo&gs_lp=EgNpbWciCGF3cyBsb2dvKgIIAjINEAAYgAQYsQMYQxiKBTIGEAAYBxgeMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgYQABgHGB4yBhAAGAcYHjIKEAAYgAQYQxiKBTIGEAAYBxgeMgYQABgHGB5IpR9QAFgAcAJ4AJABAJgBAKABAKoBALgBA8gBAJgCAqACFZgDAIgGAZIHATKgBwCyBwC4BwA&sclient=img#vhid=ZvLb1Kn0Qp9XTM&vssid=mosaic)"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
   <img width="12" />
